@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.svg');
-  src:  url('fonts/icomoon.eot') format('embedded-opentype'),
-    url('fonts/icomoon.ttf') format('truetype'),
-    url('fonts/icomoon.woff') format('woff'),
-    url('fonts/icomoon.svg') format('svg');
+  src:  url('fonts/icomoon.eot?klmk1d');
+  src:  url('fonts/icomoon.eot?klmk1d#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?klmk1d') format('truetype'),
+    url('fonts/icomoon.woff?klmk1d') format('woff'),
+    url('fonts/icomoon.svg?klmk1d#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -26,13 +26,17 @@
 
 .icon-gmail:before {
   content: "\e900";
+  color: #000000;
 }
 .icon-phone:before {
   content: "\e942";
+  color: #000000;
 }
 .icon-github:before {
   content: "\eab0";
+  color: #000000;
 }
-.icon-linkedin:before {
+.icon-linkedin2:before {
   content: "\eaca";
+  color: #000000;
 }
