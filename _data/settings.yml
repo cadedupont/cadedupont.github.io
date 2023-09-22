@@ -2,8 +2,8 @@
 # General Site Settings
 
 menu:
+- {name: 'Résumé', url: 'resume'}
 - {name: 'Projects', url: 'projects'}
-- {name: 'Resume', url: 'resume'}
 
 #-------------------------------
 # Projects Section
