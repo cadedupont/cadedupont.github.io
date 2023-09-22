@@ -20,7 +20,7 @@ projects:
 social:
 - {icon: 'github',   link: 'https://github.com/cadedupont'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/cade-dupont-5987a3220/'}
-- {icon: 'gmail',    link: 'mailto:cadedupont45@gmail.com'}
+- {icon: 'mail4',    link: 'mailto:cadedupont45@gmail.com'}
 - {icon: 'phone',    link: 'tel:940-735-8278'}
 
 #-------------------------------
