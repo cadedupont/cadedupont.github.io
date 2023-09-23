@@ -11,8 +11,9 @@ menu:
 projects:
 - {name: 'Weather Wallpaper',   url: 'weather-wallpaper'}
 - {name: 'The Fable of Link',   url: 'zelda-game'}
-- {name: 'Bash Script Archive',   url: 'scripts'}
-- {name: 'Ray Tracing', url: 'ray-tracing'}
+- {name: 'Notion Bookshelf',    url: 'notion-bookshelf'}
+- {name: 'Bash Script Archive', url: 'scripts'}
+- {name: 'Ray Tracing',         url: 'ray-tracing'}
 
 #-------------------------------
 # Contact Section
