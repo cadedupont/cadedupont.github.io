@@ -15,5 +15,6 @@ It seems you have stumbled across the Pico Pic Page. These are my favorite pictu
 If you haven't noticed, he very much enjoys spending time on my bed. Does he have his own? Yes. Does he use it? Absolutely not.
 
 <img src="/assets/img/pico/why-sit-there.jpg" width="100%">
+<img src="/assets/img/pico/why-sit-there2.jpg" width="100%" height="50%">
 
 I don't know. I don't know why he would sit there. I don't think he does either.
