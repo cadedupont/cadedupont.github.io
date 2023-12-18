@@ -7,14 +7,10 @@ title: Home
     <img src="/assets/img/home/self.jpeg" width="200" height="200" style="border-radius: 50%;" alt="Cade DuPont"/>
 </p>
 
-Hello! My name is Cade DuPont and I am an undergraduate student at the University of Arkansas pursuing a Bachelor of Science in Computer Science with a minor in Data Analytics. I am expected to graduate in December 2024.
+Hello! My name is Cade DuPont and I am an undergraduate student at the University of Arkansas pursuing a Bachelor of Science in Computer Science with a minor in Data Analytics and Mathematics. I am expected to graduate in December 2024.
 
+I am currently a teaching assistant for the [Programming Paradigms](https://catalog.uark.edu/search/?P=CSCE%203193) course offered at the University of Arkansas. This course focuses on the object-oriented programming paradigm with an introduction to functional programming. Students gain experience with the Java, JavaScript, and Python programming languages. Responsibilities for this role include grading assignments, holding frequent office hours, and further assisting students with their understanding of course material.
 
-I am currently a teaching assistant for [Programming Foundations I](https://catalog.uark.edu/search/?P=CSCE%202004). This is my third semester as a TA for my university's introductory programming classes taught in C++. Watching my students learn programming fundamentals while growing as critical thinkers is one of the most rewarding experiences I have had in college. Being a TA has also allowed me to reinforce my own understanding of core concepts and learn how to effectively communicate technical, complex content in a language others can understand.
+This is my fourth semester as a teaching assistant at the University of Arkansas Department of Electrical Engineering and Computer Science. I have also had the pleasure of being a teaching assistant for [Programming Foundations I](https://catalog.uark.edu/search/?P=CSCE%202004) and [Programming Foundations II](https://catalog.uark.edu/search/?P=CSCE%202014), courses aimed to teach students fundamental programming concepts, algorithms, and data structures in the C++ programming language.
 
-
-My interests in Computer Science include machine learning, database management, and web development. I am currently working with a team of developers to create an updated 1980s-era Photon laser tag system. Our tech stack involves Python and Tkinter for the user interface, Supabase for hosting the application's user database, and UDP socket data transmission for communication between the application and the Photon hardware. Though incomplete, the GitHub repository for this project can be found [here](https://github.com/cadedupont/photon).
-
-
-Office: JBHT 434<br>
-Fall 2023 Office Hours: Wed/Fri 11a-12p
+I am also an incoming software engineering intern at [Walmart Global Tech](https://tech.walmart.com/content/walmart-global-tech/en_us.html) for the summer of 2024.
