@@ -1,0 +1,12 @@
+# Unwanted Mac files
+.DS_Store
+
+# Jekyll build folders
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+# Bundler folders
+vendor/
+.bundle/
