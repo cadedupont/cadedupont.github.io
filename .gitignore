@@ -1,12 +1,8 @@
-# Unwanted Mac files
-.DS_Store
-
-# Jekyll build folders
-_site/
-.jekyll-cache/
-.sass-cache/
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
-
-# Bundler folders
-vendor/
-.bundle/
+vendor
+node_modules
+bookshop-live.js
+.DS_Store
