@@ -6,5 +6,5 @@ icon = "wysiwyg"
 tags = ["Headers"]
 
 [props]
-image = "/images/author-big.jpg"
+image = "/assets/img/author-big.jpg"
 image_alt = "My best photo"

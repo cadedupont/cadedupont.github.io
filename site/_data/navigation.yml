@@ -1,4 +1,4 @@
-logo_image: # You can add own logo. For example '/images/logo.png'.
+logo_image: # You can add own logo. For example '/assets/img/logo.png'.
 
 menu__settings:
   menu__items:
@@ -6,5 +6,9 @@ menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'About'
+    - title: 'Resume'
+      url: '/resume/'
+    - title: 'About Me'
       url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'

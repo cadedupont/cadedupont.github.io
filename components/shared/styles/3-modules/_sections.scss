@@ -56,12 +56,21 @@
   }
 
   .section__description {
-    max-width: 480px;
+    max-width: 1180px;
     line-height: 1.6;
     margin: 32px 0 0;
 
     p {
       margin: 0;
+    }
+
+    a {
+      border-bottom: solid 1px $link-color;
+
+      &:hover {
+        color: $link-color-hover;
+        border-bottom-color: $link-color-hover;
+      }
     }
   }
 
