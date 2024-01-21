@@ -125,12 +125,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
   /* ============================
-  // Scroll to top
+  // Scroll to top & easter egg
   ============================ */
   const btnScrollToTop = document.querySelector(".top");
+  const picoButton = document.querySelector(".pico");
 
   window.addEventListener("scroll", function () {
-    window.scrollY > window.innerHeight ? btnScrollToTop.classList.add("is-active") : btnScrollToTop.classList.remove("is-active");
+    if (window.scrollY > window.innerHeight) {
+      picoButton.classList.add("is-active");
+      btnScrollToTop.classList.add("is-active");
+    } else {
+      picoButton.classList.remove("is-active");
+      btnScrollToTop.classList.remove("is-active");
+    }
   });
 
   btnScrollToTop.addEventListener("click", function () {
@@ -141,6 +148,10 @@ document.addEventListener("DOMContentLoaded", function () {
         behavior: "smooth"
       })
     }
+  });
+
+  picoButton.addEventListener("click", function () {
+    window.location.href = "/pico";
   });
 
 });
