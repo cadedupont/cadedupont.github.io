@@ -1,4 +1,6 @@
-Personal portfolio website. Built with [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/) using the [Vonge](https://github.com/CloudCannon/vonge-jekyll-bookshop-template) theme.
+# Cade DuPont's Website
+
+My personal portfolio website. Built with [Jekyll](http://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/) using the [Vonge](https://github.com/CloudCannon/vonge-jekyll-bookshop-template) theme.
 
 ---
 
