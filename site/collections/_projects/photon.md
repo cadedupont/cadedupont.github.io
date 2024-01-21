@@ -1,6 +1,5 @@
 ---
-date: 2023-12-01
 title: Photon
-subtitle: An update to the classic game of Photon
+subtitle: An update to the classic laser tag game, Photon
 image: /images/projects/photon.jpg
 ---
