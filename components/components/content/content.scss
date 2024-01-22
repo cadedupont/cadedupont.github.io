@@ -14,7 +14,6 @@
   span.contact-info {
     display: flex;
     justify-content: center;
-    gap: 10px;
   }
 
   @media only screen and (max-width: $desktop) {
@@ -41,8 +40,8 @@
       flex-direction: row;
 
       .info-item::after {
-        content: " | ";
-        margin: 0 5px;
+        content: "|";
+        margin: 0 15px;
       }
 
       .info-item:last-child::after {
