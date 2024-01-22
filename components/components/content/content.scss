@@ -11,20 +11,43 @@
     }
   }
 
-  span.date {
-    @media only screen and (max-width: $mobile) {
+  span.contact-info {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  @media only screen and (max-width: $desktop) {
+    span.date {
       display: block;
       clear: both;
     }
 
-    @media only screen and (min-width: $desktop) {
-      float: right;
+    span.contact-info {
+      flex-direction: column;
     }
   }
 
-  strong.title {
-    @media only screen and (min-width: $desktop) {
+  @media only screen and (min-width: $desktop) {
+    span.date {
+      float: right;
+    }
+
+    strong.title {
       float: left;
+    }
+
+    span.contact-info {
+      flex-direction: row;
+
+      .info-item::after {
+        content: " | ";
+        margin: 0 5px;
+      }
+
+      .info-item:last-child::after {
+        content: "";
+      }
     }
   }
 }
