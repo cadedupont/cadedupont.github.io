@@ -6,10 +6,10 @@ footer_menu__settings:
       url: '/projects/'
     - title: 'Resume'
       url: '/resume/'
-    - title: 'About Me'
+    - title: 'About'
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
 
 copyright_text_html: >-
-  <p> 2024 &copy; Cade DuPont. Template by <a href="https://cloudcannon.com/">CloudCannon</a>.</p>
+  <p> &copy; 2024 Cade DuPont </p>
