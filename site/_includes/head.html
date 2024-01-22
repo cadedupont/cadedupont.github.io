@@ -3,6 +3,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- If Google Analytics ID is found in yaml file, include include JS for Google Analytics -->
+  {% if site.data.general_settings.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+
   <title>
     {% if page.url == "/" %}
       {{ site.data.general_settings.title }}
