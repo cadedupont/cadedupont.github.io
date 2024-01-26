@@ -180,13 +180,29 @@
 	max-width: 1180px;
 	margin: 0 auto 60px;
 
-	a {
+	a:not(.works-button):not(.cta-button) {
 		border-bottom: solid 1px $link-color;
 
 		&:hover {
 			color: $link-color-hover;
 			border-bottom-color: $link-color-hover;
 		}
+	}
+
+	.cta-button {
+		color: #ffffff;
+	}
+
+	.highlight, .highlighter-rouge {
+		color: $text-color;
+		background-color: white;
+		padding: 6px;
+		border-radius: 5px;
+	}
+
+	code {
+		font-family: 'Fira Code', monospace;
+		font-size: 16px;
 	}
 
 	img, .js-reframe {
@@ -203,14 +219,14 @@
 		margin: 40px auto 0 auto;
 		display: block;
 
+		// if inside table, remove margin
+		&:first-child {
+			margin-top: 0;
+		}
+
 		&.lightense-open {
 			border-radius: 0;
 		}
-	}
-
-	.button {
-		border: none;
-		text-decoration: none;
 	}
 }
 

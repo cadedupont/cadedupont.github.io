@@ -4,9 +4,14 @@ layout: default
 
 <div class="container">
 
-  {% bookshop page-heading title=page.title description=page.subtitle %}
-  {% assign page_image = site.baseurl | append: page.image %}
-  {% bookshop page-image image=page_image %}
+  {% bookshop page-heading title=page.title description=page.subtitle class="project-heading" %}
+
+  <p align="center">
+    <a href="https://github.com/cadedupont/{{ page.name | remove: '.md' }}" class="cta-button c-button c-button--primary c-button--small" target="_blank">View on GitHub</a>
+    <a style="margin: 20px 0 auto;" class="works-button c-button c-button--secondary c-button--small" href="https://github.com/cadedupont/{{ page.name | remove: '.md' }}/zipball/main">
+      <span class="circle-bg"><i class="ion ion-md-arrow-down button-arrow"></i></span> Download ZIP
+    </a>
+  </p>
 
   <div class="page animate">
     {{ content }}
