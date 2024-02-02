@@ -2,7 +2,7 @@
 title: Rustic Ray Tracer
 subtitle: Implementation of Peter Shirley's "Ray Tracing in One Weekend" in Rust
 image: /assets/img/projects/rustic-ray-tracer.jpg
-priority: 7
+priority: 8
 ---
 
 This is a Rust implementation of Peter Shirley's [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html) book.
