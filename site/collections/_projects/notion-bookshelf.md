@@ -2,7 +2,7 @@
 title: Notion Bookshelf
 subtitle: Application for adding books to a Notion database based on their titles
 image: /assets/img/projects/notion-bookshelf.jpg
-priority: 3
+priority: 4
 ---
 
 JavaScript application to search Google Books API by book title and save the rest of the book information to a Notion database.

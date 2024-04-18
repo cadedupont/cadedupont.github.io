@@ -6,7 +6,7 @@ priority: 1
 ---
 
 <p align="center">
-   <img src="https://github.com/NineLives-CSCE-3513/photon/raw/main/assets/images/splash.jpg" width="100%" alt="Photon Logo">
+   <img src="https://github.com/ninelives-uark/photon/raw/main/assets/images/splash.jpg" width="100%" alt="Photon Logo">
 </p>
 
 Recreating the classic Photon laser tag system using modern technologies. This project was created for the Fall 2023 semester of the Software Engineering course at the University of Arkansas.

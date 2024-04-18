@@ -9,7 +9,7 @@ This Python script fetches weather data for Fayetteville, AR from the OpenWeathe
 
 Currently only configured to change the desktop background for Windows and macOS systems. On Linux systems, the script will only download the image to the root directory of the project.
 
-## Download the Project
+## How to Use
 To run the application on your machine, you'll first need to either clone this repository or download the source code as a ZIP file. Then, follow the steps below to set up the application.
 
 Run the following command in your machine's terminal to clone the repository:
@@ -25,7 +25,7 @@ Then, navigate to the project's root directory:
 $ cd /path/to/weather-wallpaper
 ```
 
-## Setting Up API keys
+## Setting up API keys
 Before running the script, obtain API keys for [OpenWeatherMap](https://openweathermap.org/) and [Unsplash](https://unsplash.com/developers). Included in the project is a `.env.example` file formatted as follows:
 
 ```bash
